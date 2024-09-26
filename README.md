@@ -1,0 +1,2 @@
+# Healthcare-Data-Insights-AWS-Powered-Analytics-Pipeline-with-Power-BI
+Healthcare Data Insights: AWS-Powered Analytics Pipeline with Power BI This project demonstrates an end-to-end analytics pipeline using AWS (S3, Glue, Redshift) for healthcare data. Data is transformed and analyzed to generate insights, with Power BI dashboards visualizing patient trends, outcomes, and hospital performance metrics.
